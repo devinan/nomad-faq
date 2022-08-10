@@ -40,4 +40,4 @@ order: 1
 
 > - ![Imgur](https://i.ibb.co/pjcvWBn/03c4F2q.png)
 
-> - 네! 물론입니다! **Free Preview**(수업 미리 보기)를 적극 활용하시기 바랍니다!
+> - 네! 물론입니다! **Free Preview**(수업 미리 보기)를 적극적으로 활용하시기 바랍니다!

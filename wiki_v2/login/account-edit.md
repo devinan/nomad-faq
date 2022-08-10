@@ -6,7 +6,7 @@ order: 2
 
 ## 계정 정보 변경
 
-- 화면 우측 상단 아바타 이미지를 클릭해보세요. **Dashboard > Edit Profile** 으로 이동 합니다.
+- 화면 우측 상단 아바타 이미지를 클릭해보세요. **Dashboard > Edit Profile** 으로 이동합니다.
 - Edit Profile 에서 **유저명, 이름, 이메일 주소, 프로필 이미지** 등을 변경할 수 있습니다.
 - 이메일 주소 변경하기
 > - Edit Profile > Email 섹션을 찾습니다.
